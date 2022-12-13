@@ -13,8 +13,8 @@ Desafio 01 - Frontend Mentor</p>
 <br>
 
 <p align="center"> 
-  <img alt="card-produto" src="product-preview-card-component-main/design/desktop.png" width="50%">
-  <img alt="card-produto" src="product-preview-card-component-main/design/mobile.png" width="50%">
+  <img alt="card-produto" src="design/desktop.png" width="50%">
+  <img alt="card-produto" src="design/mobile.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
