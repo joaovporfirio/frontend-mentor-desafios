@@ -28,4 +28,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O projeto tem o objetivo de apresentar o produto e seus detalhes. É um ótimo componente para ser adicionado em um Ecommerce.
-Você pode visualizar o projeto no ar [AQUI](https://formulario-multietapas.vercel.app/)
+Você pode visualizar o projeto no ar [AQUI](https://frontend-mentor-desafios.vercel.app/)
