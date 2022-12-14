@@ -32,4 +32,4 @@ A escolha deste projeto em específico foi devido a necessidade do uso do JavaSc
 ## 💻 Projeto
 
 O projeto tem o objetivo de captar a avaliação do usuário. Ao selecionar a avaliação e clicar em 'submit', é encaminhado para uma página de agradecimento em que mostra qual opção foi selecionada anteriormente.
-Você pode visualizar o projeto no ar [AQUI](https://frontend-mentor-desafios.vercel.app/)
+Você pode visualizar o projeto no ar [AQUI](https://frontend-mentor-desafios-vg5u.vercel.app/)
