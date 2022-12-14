@@ -13,7 +13,7 @@ Desafio 01 - Frontend Mentor</p>
 <br>
 
 <p align="center"> 
-  <img alt="screenShot" src="interactive-rating-component-main/images/screenshot.png" width="50%">
+  <img alt="screenShot" src="images/screenshot.png" width="100%">
   
 </p>
 
