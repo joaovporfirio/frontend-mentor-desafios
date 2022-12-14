@@ -1,7 +1,7 @@
 <h1 align="center"> Página de avaliação interativa</h1>
 
 <p align="center">
-Desafio 01 - Frontend Mentor</p>
+Desafio 02 - Frontend Mentor</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
