@@ -33,4 +33,4 @@ O projeto em questão foi escolhido para exercitar conceitos de html e css, e pr
 ## 💻 Projeto
 
 O projeto é uma página de apresentação com um formulário de cadastro para que o usuário adquira a versão de teste de um determinado produto.
-Você pode visualizar o projeto no ar [AQUI](https://frontend-mentor-desafios-vg5u.vercel.app/)
+Você pode visualizar o projeto no ar [AQUI](https://frontend-mentor-desafios-aboh.vercel.app/)
