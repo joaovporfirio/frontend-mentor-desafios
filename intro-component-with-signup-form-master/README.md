@@ -15,7 +15,7 @@ Desafio 03 - Frontend Mentor</p>
 
 <p align="center"> 
   <img alt="screenShot" src="design/desktop.png" width="50%">
-  <img alt="screenShot" src="validacao.png" width="50%">
+  <img alt="screenShot" src="design/validacao.png" width="50%">
   
 </p>
 
