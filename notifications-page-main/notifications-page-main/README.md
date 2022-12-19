@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎯 Objetivos e Desafios 
 
-Este projeto foi muito útil para exercicitar JavaScript e tratar de manipulações de estados(lido/não lido). Ainda quero aperfeiçoar com a possibilidade de fazer este tratamento com cada notificação separado e alterar o número de notificações não lidas no superior da página. Porém como primeira parte e principal do desafio, foi concluido com sucesso!
+Este projeto foi muito útil para exercitar JavaScript e tratar de manipulações de estados(lido/não lido). Ainda quero aperfeiçoar com a possibilidade de fazer este tratamento com cada notificação separado e alterar o número de notificações não lidas no superior da página. Porém como primeira parte e principal do desafio, foi concluido com sucesso!
 
 ## 💻 Projeto
 
