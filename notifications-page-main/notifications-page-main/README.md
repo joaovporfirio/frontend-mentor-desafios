@@ -14,7 +14,7 @@ Desafio 04 - Frontend Mentor</p>
 <br>
 
 <p align="center"> 
-  <img alt="screenShot" src="design/desktop.png" width="100%">
+  <img alt="screenShot" src="design/desktop.PNG" width="100%">
   
   
 </p>
@@ -34,4 +34,4 @@ Este projeto foi muito útil para exercicitar JavaScript e tratar de manipulaç�
 ## 💻 Projeto
 
 O projeto é uma página de notificações em que o usuário pode ver as ultimas mensagens ou notificações lidas e não lidas, além de possibilitar a alteração para todas lidas.
-Você pode visualizar o projeto no ar [AQUI](https://frontend-mentor-desafios-aboh.vercel.app/)
+
